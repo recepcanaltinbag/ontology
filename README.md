@@ -6,15 +6,15 @@ Description: This ontology represents the relations between Observations, Measur
 
 FILES in the Repository
 
-TheOntologyGISDSS.owl file contains final version of the OWL File which stands for Ontology
-DLQueryExample is an query example which I used in Protege DLQuery plug-in and mentioned in Report 
-OntologyQueryFunctionsDescriptions.py is a py file which contains some query for ontology that mentioned in Report also
-OntologyQueryFunctions.py is a py file which contains calling of the functions 
+TheOntologyGISDSS.owl file contains final version of the OWL File which stands for Ontology \n
+DLQueryExample is an query example which I used in Protege DLQuery plug-in and mentioned in Report \n
+OntologyQueryFunctionsDescriptions.py is a py file which contains some query for ontology that mentioned in Report also \n
+OntologyQueryFunctions.py is a py file which contains calling of the functions \n
 
 INSTALLATIONS:
 
-Protege is needed to run DLQuery
-owlready2 is needed to run Py Files
-visualdataweb site can be used to visual OWL file, such as:
-http://visualdataweb.de/webvowl/#iri=http://web.itu.edu.tr/altinbagr/ontology/ProjectOwl_v4.owl
+Protege is needed to run DLQuery \n
+owlready2 is needed to run Py Files \n
+visualdataweb site can be used to visual OWL file, such as: \n
+http://visualdataweb.de/webvowl/#iri=http://web.itu.edu.tr/altinbagr/ontology/ProjectOwl_v4.owl  \n
 Also, Protege can be used to see classes, instances and all  properties in the ontology file
